@@ -1,0 +1,6 @@
+numx = 30,  numy = 30, N = 900 
+n_tot = 100000, n_interval = 100, dt = 0.001000, n_j = 800 
+tmax = n_tot*dt = 100.000000, t_interval = n_interval*dt = 0.100000 
+R = 0.500000, spacing = 1.000000, r0 = 1.000000 
+k = 0.000000, ka = 1.000000, u0 = 0.050000 
+number of simulations = 100 
