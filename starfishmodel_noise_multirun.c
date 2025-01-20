@@ -364,9 +364,9 @@ int main() {
 	FILE* fpj1;
 	fpj1 = fopen("Cll_starfish.dat", "w");
 	FILE* fpj2;
-	fpj2 = fopen("Clt_r_starfish.dat", "w");
+	fpj2 = fopen("Cltr_starfish.dat", "w");
 	FILE* fpj3;
-	fpj3 = fopen("Clt_i_starfish.dat", "w");
+	fpj3 = fopen("Clti_starfish.dat", "w");
 	FILE* fpj4;
 	fpj4 = fopen("Ctt_starfish.dat", "w");
 
