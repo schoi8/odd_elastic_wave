@@ -286,9 +286,9 @@ int main() {
 	FILE* fpj1;
 	fpj1 = fopen("Cll_toy.dat", "w");
 	FILE* fpj2;
-	fpj2 = fopen("Clt_r_toy.dat", "w");
+	fpj2 = fopen("Cltr_toy.dat", "w");
 	FILE* fpj3;
-	fpj3 = fopen("Clt_i_toy.dat", "w");
+	fpj3 = fopen("Clti_toy.dat", "w");
 	FILE* fpj4;
 	fpj4 = fopen("Ctt_toy.dat", "w");
 
