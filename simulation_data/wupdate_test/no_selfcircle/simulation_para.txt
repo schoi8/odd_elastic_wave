@@ -1,0 +1,6 @@
+numx = 20,  numy = 20, N = 400 
+n_tot = 100000, n_interval = 10, dt = 0.001000 
+tmax = n_tot*dt = 100.000000, t_interval = n_interval*dt = 0.010000 
+R = 0.500000, spacing = 1.200000, r0 = 1.200000, rm = 1.900000 
+Fst0 = 53.700000, frep0 = 785.100000, w0 = 1.000000, f0 = 1.000000, u0 = 0.050000, v0 = 0.000000 
+noisy v0. mean = 0.000000, noise amplitude = 0.000000 
